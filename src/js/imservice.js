@@ -28,7 +28,7 @@ function CurrentUser(uuid, name, avatar) {
 
 function IMService() {
     this.im = GoEasyIM.getInstance({
-        appkey: '您的appkey',
+        appkey: 'BC-fecfe4cc4c964061b0f1de2934b4630c',
         host: 'hangzhou.goeasy.io',
     });
     //当前“我”
