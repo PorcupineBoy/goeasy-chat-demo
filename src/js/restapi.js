@@ -4,25 +4,25 @@ let users = [
         "uuid": "08c0a6ec-a42b-47b2-bb1e-15e0f5f9a19a",
         "name": "Mattie",
         "password": "123",
-        "avatar": '/GoEasyDemo-IM-Chat/src/images/Avatar-1.png'
+        "avatar": '/goeasy-chat/src/images/Avatar-1.png'
     },
     {
         "uuid": "3bb179af-bcc5-4fe0-9dac-c05688484649",
         "name": "Wallace",
         "password": "123",
-        "avatar": '/GoEasyDemo-IM-Chat/src/images/Avatar-2.png'
+        "avatar": '/goeasy-chat/src/images/Avatar-2.png'
     },
     {
         "uuid": "fdee46b0-4b01-4590-bdba-6586d7617f95",
         "name": "Tracy",
         "password": "123",
-        "avatar": '/GoEasyDemo-IM-Chat/src/images/Avatar-3.png'
+        "avatar": '/goeasy-chat/src/images/Avatar-3.png'
     },
     {
         "uuid": "33c3693b-dbb0-4bc9-99c6-fa77b9eb763f",
         "name": "Juanita",
         "password": "123",
-        "avatar": '/GoEasyDemo-IM-Chat/src/images/Avatar-4.png'
+        "avatar": '/goeasy-chat/src/images/Avatar-4.png'
     }
 ];
 
